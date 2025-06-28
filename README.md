@@ -32,12 +32,6 @@ This project involves end-to-end analysis of an e-commerce dataset using Python 
 
 ---
 
-## 📅 Project Duration
-
-**March 2025 – June 2025**
-
----
-
 ## 👨‍💻 Author
 
 **Karan Madav**  
